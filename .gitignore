@@ -1,1 +1,4 @@
 rameez.html
+.terraform*
+.terraform
+terraform.*
